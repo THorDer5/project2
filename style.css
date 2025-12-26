@@ -84,3 +84,227 @@ color: #000000;
     justify-content: center;
     gap: 27px;
 }
+
+
+.main_header_develope{
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 36px;
+line-height: 53px;
+
+color: #323232;
+margin-bottom: 63px;
+
+
+}
+
+.p_develope_standart{
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 25px;
+
+color: #999999;
+margin-bottom: 42px;
+
+
+}
+
+.link_details_company{
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 20px;
+text-decoration-line: underline;
+
+
+color: #4985FF;
+
+
+}
+
+.picture_develope_standarts{
+    width: 400px;
+    height: 300px;
+    margin-left: auto;
+    position: absolute;
+    left: 1215px;
+    top: 750px;
+}
+
+.develope_standarts{
+    background-color: rgba(246, 246, 248, 1);
+    padding-top: 149px;
+    width: 1920px;
+    height: 650px;
+}
+
+.list_our_project{
+    display: flex;
+    justify-content: center;
+    padding-bottom: 70px;
+}
+
+.list_li_project{
+    gap: 15px;
+    width: 230px;
+    height: 230px;
+
+}
+
+
+.p_number_developes{
+
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 36px;
+line-height: 53px;
+
+color: #000000;
+
+
+}
+
+.list_standart_develop{
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 25px;
+
+
+color: #999999;
+
+
+}
+
+
+.our_services{
+    padding-top: 100px;
+}
+
+.header_our_services{
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 36px;
+line-height: 53px;
+
+color: #e6e2e2;
+margin-bottom: 76px;
+
+
+}
+
+.button_our_services{
+
+width: 200px;
+height: 45px;
+position: absolute;
+left: 1400px;
+top: 1400px;
+
+
+
+
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 20px;
+text-align: center;
+background-color: cornflowerblue;
+border-radius: 15px;
+border-color: #FFFFFF;
+
+color: #FFFFFF;
+
+
+}
+
+
+.list_our_services{
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+}
+
+
+ .picture_list_services{
+    width: 350px;
+    height: 300px;
+ }
+
+
+ .researching_services{
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 22px;
+
+
+margin-top: 30px;
+margin-bottom: 30px;
+
+
+
+
+
+ }
+
+ .main_text_services{
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 25px;
+
+
+color: #999999;
+margin-bottom: 47px;
+
+
+ }
+
+ .link_details{
+
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 20px;
+
+text-decoration-line: underline;
+
+
+color: #4985FF;
+
+
+
+ }
+
+
+ .our_project_h2{
+    padding-top: 170px;
+ }
+
+ .our_services{
+    
+  background: linear-gradient(to bottom,rgb(58, 2, 189) 50%,white 50%);
+}
+ 
