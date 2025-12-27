@@ -5,10 +5,92 @@
     margin: 0 auto;
 }
 
-.video{
-    background-image: url(video.jpg);
-    background-size: cover;
-    background-repeat: no-repeat;
+
+
+
+.nav-header-list-li-p{
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 20px;
+
+color: #885c5c;
+
+
+}
+
+
+.nav-header-list{
+    display: flex;
+    justify-content: center;
+    gap: 39px;
+    position: absolute;
+    left: 920px;
+    margin-top: 40px;
+
+   
+}
+
+.hero{
+    width: 1920px;
+    height: 900px;
+    padding-top: 250px;
+}
+
+
+.hero-p{
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 20px;
+text-align: center;
+
+color: #a78888;
+margin-bottom: 20px;
+
+
+}
+
+.hero_h1{
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 800;
+font-size: 48px;
+line-height: 64px;
+text-align: center;
+
+color: #d3b2b2;
+
+
+}
+
+.hero-button{
+
+
+background: #4985FF;
+box-shadow: 0px 0px 10px rgba(111, 111, 111, 0.25);
+border-radius: 30px;
+margin-top: 50px;
+
+
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 20px;
+text-align: center;
+
+color: #ffffff;
+width: 200px;
+height: 45px;
+
+
 }
 
 
@@ -190,6 +272,8 @@ color: #999999;
 
 .our_services{
     padding-top: 100px;
+    width: 1920px;
+    height: 900px;
 }
 
 .header_our_services{
@@ -290,6 +374,7 @@ font-size: 16px;
 line-height: 20px;
 
 text-decoration-line: underline;
+padding-bottom:10px ;
 
 
 color: #4985FF;
@@ -308,3 +393,83 @@ color: #4985FF;
   background: linear-gradient(to bottom,rgb(58, 2, 189) 50%,white 50%);
 }
  
+
+.our_project_h2{
+   
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 36px;
+line-height: 53px;
+text-align: center;
+
+color: #000000;
+margin-bottom: 28px;
+
+
+}
+
+
+.p_our_project{
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 25px;
+text-align: center;
+margin-bottom: 39px;
+color: #999999;
+
+
+}
+
+.list_our_project{
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+}
+
+.img_project{
+    width: 255px;
+    height: 255px;
+}
+
+.our_projects{
+    background-color: rgb(248, 247, 247);
+    width: 1920px;
+    height: 776px;
+}
+
+.button_all_projects{
+
+
+
+
+background: #4985FF;
+box-shadow: 0px 0px 10px rgba(111, 111, 111, 0.25);
+border-radius: 30px;
+
+
+
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 20px;
+text-align: center;
+width: 200px;
+height: 45px;
+
+color: #FFFFFF;
+border-color: #4985FF ;
+position: absolute;
+left: 860px;
+
+
+
+
+}
+
+
