@@ -16,7 +16,7 @@ font-weight: 500;
 font-size: 16px;
 line-height: 20px;
 cursor: pointer;
-
+position: relative;
 color: #ffffff;
 
 
@@ -106,6 +106,9 @@ height: 45px;
 }
 
 
+.hero-button:hover{
+    cursor: pointer;
+}
 
 
 .mobile_app{
@@ -711,3 +714,70 @@ color: #999999;
     height: 40px;
 }
 
+.nav-header-list-li-p::after {
+  content: "";
+  position: absolute;
+  left: 0;
+  bottom: -25px; 
+  width: 0;
+  height: 4px;
+  background-color: #e2e5e7; 
+  transition: width 250ms cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.nav-header-list-li-p:hover::after {
+  width: 100%; 
+}
+
+.watch_video{
+
+width: 300px;
+height: 100px;
+
+
+
+
+
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 25px;
+
+color: #ffffff;
+
+
+
+
+box-sizing: border-box;
+
+
+
+border: 1px solid #FFFFFF;
+border-radius: 200px;
+
+
+
+
+background: #FFFFFF;
+
+position: absolute;
+bottom: 50px;
+right: 320px;
+
+  background: transparent;
+  display: flex;
+  justify-content: center;
+  padding-top: 25px;
+}
+
+.center{
+    position: relative;
+}
+
+.play_button{
+    width: 60px;
+    height: 60px;
+    margin-right: 40px;
+}
